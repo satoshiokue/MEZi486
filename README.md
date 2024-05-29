@@ -18,4 +18,8 @@ Pin Socket 168Pin
   
 ![MEZi486 PCB BOTTOM](https://github.com/satoshiokue/MEZi486/blob/main/MEZi486_bottom.jpg)  
 
+![MEZi486](https://github.com/satoshiokue/MEZi486/blob/main/MEZi486.jpg)  
+
+![MEZi486 SOCKET](https://github.com/satoshiokue/MEZi486/blob/main/MEZi486_socket.jpg)  
+
 https://github.com/satoshiokue/EMUZ80-i486  
