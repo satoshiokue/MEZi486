@@ -11,6 +11,8 @@ MEZi486.zip
 RESISTOR NETWORK 5 PIN 10K x1  
 0.1uF x9
 47uF x1  
+Pin Header 20Pin x2
+Pin Socket 168Pin
 
 ![MEZi486 PCB TOP](https://github.com/satoshiokue/MEZi486/blob/main/MEZi486_top.jpg)  
   
